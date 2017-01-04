@@ -29,7 +29,7 @@ Your lab directory must include
 * **.package.json** -- with all dependencies and dev-dependencies 
 * **lib/** -- directory for holding your programs helper modules
 * **test/** -- directory for holding your programs unit and integration tests
-* **assets** -- direcotry for holding text files used by the program
+* **assets/** -- direcotry for holding text files used by the program
  * there should be three files in this directory
 * **index.js** -- the main program file
  
