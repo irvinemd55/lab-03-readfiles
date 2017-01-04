@@ -47,8 +47,8 @@ Your lab directory must include
  * if the user does not input **exactly** three files the program should log a usage error
 
 #### Testing  
-* Write tests to ensure that `readFile` passes an error into the callback if any of the three file paths are to file that do not exist
-* Write tests to ensure that `readFile` passes back an array of text data that maps to the order of the file paths array
+* Write tests to ensure that `readFile` passes an error into the callback if any of the three file paths are a file that do not exist
+* Write tests to ensure that `readFile` passes back an array of text data that maps from the file paths array
 
 ####  Documentation  
 * In your **README.md** write documentaion about using `done` in mocha callbacks
