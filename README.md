@@ -41,7 +41,7 @@ Your lab directory must include
 * `readFiles` should read all three files into memory and create an new array of the text from each file
  * if any error occurs the callback should be invoked with the error and the function should exit
  * if the new array is successfully created the callback should be invoked with (null, result)
- * **the text in the array of text data should at the same index as the path in the original paths array**
+ * **keep the resulting data in the same order as the file paths array** 
 
 * create a module **index.js** that invokes the readfile module with three command line arguments
  * if the user does not input **exactly** three files the program should log a usage error
