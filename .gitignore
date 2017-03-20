@@ -1,5 +1,5 @@
 
-# Created by https://www.gitignore.io/api/osx,vim,node,windows,linux
+# Created by https://www.gitignore.io/api/osx,vim,node,windows,linux,git
 
 ### OSX ###
 *.DS_Store
@@ -128,4 +128,8 @@ $RECYCLE.BIN/
 # .nfs files are created when an open file is removed but is still being accessed
 .nfs*
 
-# End of https://www.gitignore.io/api/osx,vim,node,windows,linux
+
+### Git ###
+*.orig
+
+# End of https://www.gitignore.io/api/osx,vim,node,windows,linux,git
